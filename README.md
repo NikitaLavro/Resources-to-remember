@@ -18,3 +18,7 @@ https://www.youtube.com/watch?v=TxZwqVTaCmA
 
 6. Design patterns:
 https://www.youtube.com/watch?v=BWprw8UHIzA&list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f
+
+7. Algorithms and data structures:
+https://builtin.com/software-engineering-perspectives/javascript-data-structures
+https://www.youtube.com/watch?v=NErrGZ64OdE
