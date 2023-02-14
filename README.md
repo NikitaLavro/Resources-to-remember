@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=X85soC5evw0&t=1382s
 
 5. SOLID principles:
 https://www.youtube.com/watch?v=TxZwqVTaCmA
+
+6. Design patterns:
+https://www.youtube.com/watch?v=BWprw8UHIzA&list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f
