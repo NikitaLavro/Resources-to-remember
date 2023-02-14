@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=zDlg64fsQow
 4. MVC and MVVM acrhitecture:
 https://www.youtube.com/watch?v=X85soC5evw0&t=1382s
 
+5. SOLID principles:
+https://www.youtube.com/watch?v=TxZwqVTaCmA
