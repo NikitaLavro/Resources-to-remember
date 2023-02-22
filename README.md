@@ -22,3 +22,6 @@ https://www.youtube.com/watch?v=BWprw8UHIzA&list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XY
 7. Algorithms and data structures:
 https://builtin.com/software-engineering-perspectives/javascript-data-structures
 https://www.youtube.com/watch?v=NErrGZ64OdE
+
+8. Cheat Sheets:
+https://github.com/LeCoupa/awesome-cheatsheets
