@@ -25,3 +25,6 @@ https://www.youtube.com/watch?v=NErrGZ64OdE
 
 8. Cheat Sheets:
 https://github.com/LeCoupa/awesome-cheatsheets
+
+9. Mongoose Cheat Sheet:
+https://gist.github.com/subfuzion/9236165
